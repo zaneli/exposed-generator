@@ -6,6 +6,7 @@
 dependencyResolutionManagement {
     @Suppress("UnstableApiUsage")
     repositories {
+        maven("https://jitpack.io")
         mavenCentral()
     }
 }
